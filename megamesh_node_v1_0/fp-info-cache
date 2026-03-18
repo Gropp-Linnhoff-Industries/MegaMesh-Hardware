@@ -1,4 +1,4 @@
-27314703112635543
+27327115892553318
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -108276,9 +108276,58 @@ Varistor VF
 2
 2
 myRF
+CONN-TH_2P-P3.81_KF124-3.81-2P
+
+
+0
+2
+2
+myRF
+IND-SMD_L4.2-W4.0_SPM4030T
+
+
+0
+2
+2
+myRF
+IND-SMD_L5.2-W5.0_SPM5030T
+
+
+0
+2
+2
+myRF
+IND-SMD_L7.1-W6.5-P5.60
+
+
+0
+2
+2
+myRF
+LED-SMD_L1.7-W0.6-R-RD
+
+
+0
+2
+2
+myRF
 LoRa126XF30
 LoRa Module, SX1262 2W TCXO, With ESD Protection, https://www.nicerf.com/lora-module/sx1262-lora-module-lora1262f30.html
 LoRa SX1262 1262F30 NiceRF
 0
 16
 16
+myRF
+SON 3.3x3.3mm
+
+
+0
+10
+9
+myRF
+SW_TS-1088-AR02016
+
+
+0
+2
+2
